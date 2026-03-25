@@ -21,9 +21,9 @@ Este repositório reúne três aplicativos desenvolvidos em Flutter para fins ed
    flutter run
    ```
 ### 🖼 Pictures
-![Home](blob:https://web.whatsapp.com/89f2a024-747b-4152-be6f-1b66a92c3c9e)
-![Tela inicial](blob:https://web.whatsapp.com/d601b24d-04ed-403d-a40a-45a20183a4c2)
-![Resposta](blob:https://web.whatsapp.com/daaca6fb-ac3c-490b-a6c5-3c28a54fa308)
+![Home](assets/screen1.jpg)
+![Tela inicial](assets/screen2.jpg)
+![Resposta](assets/screen3.jpg)
 
 ---
 
@@ -45,9 +45,9 @@ Este repositório reúne três aplicativos desenvolvidos em Flutter para fins ed
    ```
 
 ### 🖼 Pictures
-![Home](blob:https://web.whatsapp.com/ee274a86-0c68-4990-84e0-bc18ec9d918c)
-![Tela inicial](blob:https://web.whatsapp.com/d4fca727-1ec0-485f-951b-8f21fa418a002)
-![Resposta](blob:https://web.whatsapp.com/55d07e60-6af7-4fb1-bb1c-a06c8f5d258a)
+![Home](assets/screen4.jpg)
+![Tela inicial](assets/screen5.jpg)
+![Resposta](assets/screen6.jpg)
 
 ---
 
@@ -69,7 +69,9 @@ Este repositório reúne três aplicativos desenvolvidos em Flutter para fins ed
    ```
 
 ### 🖼 Pictures
-*(adicione aqui as imagens do app)*
+![Home](assets/screen7.jpg)
+![Tela inicial](assets/screen8.jpg)
+![Resposta](assets/screen9.jpg)
 
 ---
 
